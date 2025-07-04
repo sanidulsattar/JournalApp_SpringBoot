@@ -38,7 +38,7 @@
    ```bash
    git clone https://github.com/sanidulsattar/JournalApp_SpringBoot.git
    
-Future Enhancements
+## Future Enhancements
 User authentication with JWT
 
 Entry categorization/tagging
